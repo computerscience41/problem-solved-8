@@ -1,3 +1,5 @@
+# Iterator from a string uses
+
 string = "Hello"
 iterator = iter(string)
 
